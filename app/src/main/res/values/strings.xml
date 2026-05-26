@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search_hint">ابحث عن مدينة...</string>
+    <string name="search">بحث</string>
+    <string name="humidity">الرطوبة</string>
+    <string name="feels_like">الإحساس</string>
+    <string name="wind">الرياح</string>
+</resources>

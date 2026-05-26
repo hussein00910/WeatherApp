@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.WeatherApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#0F2027</item>
+        <item name="colorPrimaryVariant">#203A43</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#50FA7B</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:statusBarColor">#0F2027</item>
+    </style>
+</resources>
